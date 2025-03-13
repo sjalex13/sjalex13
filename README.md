@@ -14,6 +14,10 @@ I'm a passionate college student who loves bringing ideas to life through code. 
     Building AI-powered applications
     Enhancing my React skills
     Experimenting with machine learning models
+    
+📊 GitHub Stats  
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjalex13&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjalex13&layout=compact&theme=dark)  
 
 ⚽ Fun Fact
 
