@@ -2,7 +2,7 @@
 
 🎓 **College Student** | 💻 **Developer** | ⚽ **Football Fan**  
 
-I'm a passionate college student who loves bringing ideas to life through **code**. I enjoy working on **small projects** that help me **explore new technologies** and improve my skills.  
+I enjoy working on **small projects** that help me **explore new technologies** and improve my skills.  
 
 ##  What I Work With  
 -  Web Development: **HTML, CSS, JavaScript, React**  
